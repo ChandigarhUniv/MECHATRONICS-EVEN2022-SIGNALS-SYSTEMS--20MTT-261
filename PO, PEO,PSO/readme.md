@@ -25,3 +25,25 @@
 - PO10. Communication: Communicate effectively on complex Engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations and give and receive clear instructions.
 - PO11. Project Management and Finance: Demonstrate knowledge and understanding of Engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
 - PO12. Life Long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+
+## SO's
+
+- SO-1: An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+
+- SO-2: An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factor
+
+- SO-3: An ability to communicate effectively with a range of audiences
+
+- SO-4: An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+
+- SO-5: An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+
+- SO-6: An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+
+- SO-7: An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+
+## PSO's
+
+- PSO-1: Apply the knowledge of sensors, data acquisition, robotics, PLC, control systems and modern software tools to solve mechanical and electronics related problems.
+
+- PSO-2: Design and develop various mechatronics systems by applying concepts of design, manufacturing, electronics and industrial automation required for current industrial needs.
