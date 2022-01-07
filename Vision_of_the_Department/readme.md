@@ -1,0 +1,4 @@
+> To be recognized as a Center of Excellence for Research and Innovation in Mechatronics Engineering 
+> through modern as well as cutting-edge tools and technologies for serving the society at regional, 
+> national and global level.
+
