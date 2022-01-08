@@ -44,6 +44,11 @@ ANTI-REQUISITE	NA
 	Introduction, representation of a continuous time signal by its samples: the sampling theorem, reconstruction of a signal from its samples using interpolation, the effect of under sampling: Aliasing, discrete time processing of continuous time signals, sampling of discrete time signals.
 	Introduction to Laplace transform, the region of convergence for Laplace transforms, the inverse Laplace transform, properties of the Laplace transform, Laplace transform pairs, analysis and characterization of LTI systems using the Laplace transform
 
+## Lesson Plan
+
+![image](https://user-images.githubusercontent.com/61932746/148655901-365d1e3f-faa5-40f2-bc98-5597b709ece5.png)
+
+
 ## Textbooks / Reference Books – 
 
 - Oppenheim and Willsky, Signals and Systems, Prentice Hall, 1997, 4th reprint.
