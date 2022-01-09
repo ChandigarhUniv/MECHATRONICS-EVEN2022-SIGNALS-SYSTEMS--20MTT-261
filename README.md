@@ -73,6 +73,15 @@ ANTI-REQUISITE	NA
 
 ## Assessment Pattern - Internal and External
 
+SrNo	|    Assessment Name	|   Exam Name	        |  Max Marks
+--------|-----------------------|-----------------------|------------
+1	|    20EU01	        |   Assignment  |  10
+2	|    20EU01		|   Attendance and Engagement Score on BB      |  2
+3	|    20EU01		|   Mid-Semester Test-1	| 40
+4	|    20EU01		|  Quiz	| 4
+5	|    20EU01		|  Surprise Test	| 12
+6	|    20EU01		|  Mid-Semester Test-2	| 40
+--------|-----------------------|-----------------------|------------
 
 ## CO-PO Mapping
 
