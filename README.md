@@ -76,3 +76,18 @@ ANTI-REQUISITE	NA
 
 ## CO-PO Mapping
 
+### Instructions for Mapping:
+Mapping CO's Vs PO's/PSO's need to be provided wherever it is appropriate. The correlation levels can be given based on below given parameters with respect to the Program attributes. the parameters are as follows:
+
+- Course content
+- Content delivery
+- Pedagogy tools
+- Assessment tools used to measure the student's performance
+- Correlation levels
+
+> Slight (Map it with 1 correlation when the above-mentioned parameters are slightly influencing in students learning).
+> Moderate (Map it with 2 correlation when the above-mentioned parameters are moderately influencing in students learning).
+> Substantial (Map it with 3 correlation when the above-mentioned parameters are strongly influencing in students learning).
+
+**If there is no correlation, put "NA"**
+![Mapping Chart](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS--20MTT-261-/blob/main/Gallery/co-po%20sas.PNG)
