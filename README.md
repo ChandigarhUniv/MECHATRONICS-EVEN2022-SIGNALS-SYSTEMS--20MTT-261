@@ -23,26 +23,40 @@ ANTI-REQUISITE	NA
 
 ## Course Outcomes
 
-- CO1	Classify the signals and systems on the basis of their characteristics.
-- CO2	Make use of the concept of sampling theorm on CT and DT signals
-- CO3	Examine the concepts of Fourier Series and Fourier Transform in signal and system analysis.
-- CO4	Importance of LTI Systems in predicting the output using impulse response. 
-- CO5	Construct the Continuous and Discrete Time systems using various transfroms.
+- CO1	The student will be able to Interpret the signals in various forms for analysis
+- CO2	The student will be able to Obtain Fourier analysis of continuous time and discrete time signals
+- CO3	The student will be able to analyse LTI system response
+- CO4	The student will be able to synthesis LTI system response
+- CO5	The student will be able to Construct the Continuous and Discrete Time systems using various transfroms.
 
 ## Syllabus
 
-### Unit-1	Signal and Systems & Linear time invariant systems	
+### Unit-1	Mathematical Preliminaries, Types of Signals and Transformations
+	
 #### Contact Hours: 16
-	Introduction, Classifications of signals, transformation of independent variables, Elementary Signals, continuous and discrete time systems, Basic system properties.
-	Introductions, discrete time LTI Systems: the convolution sum, continuous time LTI systems: the convolution integral, properties of linear time invariant systems, casual LTI systems described by differential and difference equations, singularity functions
-### Unit-2	Fourier series representation of periodic signals &The continuous time Fourier transforms	
+	Numbers	Sinosoids & Phasors	Limits and continuity	Differentiation and Integration	L-Hospital's relation	I/O relation of RLC-circuit	Unit-step and delta functions
+
+	IContinuous & Discrete Time Signals	Even and Odd Signals	Orthogonality	Shifting and scaling in Continuous time	Shifting and scaling in Discrete time	Signal and Noise	Signal in the physical world	Signal & Sensing perception
+
+### Unit-2	Fourier Transform of Continuous-Time Signals, Fourier Series of Continuous-Time Periodic Signals and Properties
+
 #### Contact Hours: 16
-	Introduction, the response of LTI systems to complex exponentials, convergence of Fourier series, properties of continuous time Fourier series, Fourier series representation of discrete time periodic signals, properties of discrete time Fourier series, Fourier series and LTI systems, Filtering.
-	Introduction, representation of aperiodic signals: the continuous time Fourier transform, Fourier transform for periodic signals, the convolution property, the multiplication property, systems characterized by linear constant coefficient differential equations.
-### Unit-3	Sampling & The Laplace transform	
+	Frequency domain Representation	Fourier Transform	Fourier transform : Exammple -I	Drichlet conditions	Inverse Fourier transformFourier transform : Exammple-II	FT Uncertainity Relation
+	FT: Time shifting & time scaling	FT-Derrivative property	FT: Multiplication & Convolution property	FT: Integral property	Fourier transform : Exammple-III	Fourier transform : Exammple-IV	Fourier transform of Noise
+	Fourier transform of periodic signals	Fourier Series representation in continuous time	Fourier series properties - I	Fourier series properties - II	LTI system response for periodic input signal	Fourier Series in in continuous time: Example-I	Fourier Series in in continuous time: Example-II
+	Discrete Time Convulution sum	Discrete Time Examples & propertie	LCCDE representation of discrete time LTI systems	Impulse train sampling	Re-construction of continuous time signal	Nyquist sampling theorem & Aliasing
+	
+### Unit-3	Laplace Transform, Laplace Transform Properties, LTI Systems, Convolution and LTI System Properties
+	
 #### Contact Hours: 16
+	FT in Complex frequency domain	Laplace transforms(LT): Poles & Zeros	LT: Region of convergence	LT: Example I	LT: Example II	Laplace analysis of LTI systems	Laplace Analysis of RLC circuits
+	Laplace transforms(LT): Linearity, shifting & Scaling	Laplace transforms(LT): Derrivative & Integral	Laplace transforms(LT): Causality & Stability	Laplace Analysis of an LTI system 	Laplace analysis of LTI systems: Example-I	Laplace analysis of LTI systems: Example-II	Laplace Analysis of First Order RLC circuits	Laplace Analysis of Second Order RLC circuits
+
 	Introduction, representation of a continuous time signal by its samples: the sampling theorem, reconstruction of a signal from its samples using interpolation, the effect of under sampling: Aliasing, discrete time processing of continuous time signals, sampling of discrete time signals.
-	Introduction to Laplace transform, the region of convergence for Laplace transforms, the inverse Laplace transform, properties of the Laplace transform, Laplace transform pairs, analysis and characterization of LTI systems using the Laplace transform
+	Continuous Time: Convolutional Integral	Continuous Time: Convolutional Integral Example-I	Continuous Time: Convolutional Integral Example-II	Continuous Time: Convolutional Integral Example-III	LTI Systems: commutative, distributive & Associative	LTI Systems: Memoryless & Invertibility	LTI Systems: Causality & Stability
+	*A mini-project/case-study/research article implementation solving complex problem*
+
+
 
 ## Lesson Plan
 
