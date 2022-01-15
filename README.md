@@ -64,18 +64,18 @@ ANTI-REQUISITE	NA
 
 ## Lecture Notes 
 
-[WEEK-1](https://drive.google.com/drive/folders/11so05e0moA1SI8sv7p6_7zBlapS6Bo7Z?usp=sharing)
-[WEEK-2](https://drive.google.com/drive/folders/1M8YTk8SJiAz30d8hCXUyrbveD0o5ollu?usp=sharing)
-[WEEK-3](https://drive.google.com/drive/folders/1JZYMNXx22_DDJ9k04Z1XMQzmMjVt0oSI?usp=sharing)
-[WEEK-4](https://drive.google.com/drive/folders/1ahBbYXZoyWNE9KDQzejkXwkKCACh5kJR?usp=sharing)
-[WEEK-5](https://drive.google.com/drive/folders/1UkUemf-QMc-_G9RoCwmh7E-_b_dIYJ06?usp=sharing)
-[WEEK-6](https://drive.google.com/drive/folders/1qLOopUyZWLX8qFp2KMnbz9Suo-xFOJgZ?usp=sharing)
-[WEEK-7](https://drive.google.com/drive/folders/1j0VIuwbX2K3k2U9ptz1V_RN2IM6SQRft?usp=sharing)
-[WEEK-8](https://drive.google.com/drive/folders/1ElnfhyUvSAx8T9T1BUOj_6HaR8rUQo2T?usp=sharing)
-[WEEK-9](https://drive.google.com/drive/folders/1D7BC6983ImPZX9drGgie5TlCZEwsyevQ?usp=sharing)
-[WEEK-10](https://drive.google.com/drive/folders/1xPQzW7GW1MFmnpVbwvv5GGyqWa4qRDcl?usp=sharing)
-[WEEK-11](https://drive.google.com/drive/folders/1i1eJ6M4q778Xx8IV878nuuz0Y88c-a5A?usp=sharing)
-[WEEK-12](https://drive.google.com/drive/folders/1i1eJ6M4q778Xx8IV878nuuz0Y88c-a5A?usp=sharing)
+- [WEEK-1](https://drive.google.com/drive/folders/11so05e0moA1SI8sv7p6_7zBlapS6Bo7Z?usp=sharing)
+- [WEEK-2](https://drive.google.com/drive/folders/1M8YTk8SJiAz30d8hCXUyrbveD0o5ollu?usp=sharing)
+- [WEEK-3](https://drive.google.com/drive/folders/1JZYMNXx22_DDJ9k04Z1XMQzmMjVt0oSI?usp=sharing)
+- [WEEK-4](https://drive.google.com/drive/folders/1ahBbYXZoyWNE9KDQzejkXwkKCACh5kJR?usp=sharing)
+- [WEEK-5](https://drive.google.com/drive/folders/1UkUemf-QMc-_G9RoCwmh7E-_b_dIYJ06?usp=sharing)
+- [WEEK-6](https://drive.google.com/drive/folders/1qLOopUyZWLX8qFp2KMnbz9Suo-xFOJgZ?usp=sharing)
+- [WEEK-7](https://drive.google.com/drive/folders/1j0VIuwbX2K3k2U9ptz1V_RN2IM6SQRft?usp=sharing)
+- [WEEK-8](https://drive.google.com/drive/folders/1ElnfhyUvSAx8T9T1BUOj_6HaR8rUQo2T?usp=sharing)
+- [WEEK-9](https://drive.google.com/drive/folders/1D7BC6983ImPZX9drGgie5TlCZEwsyevQ?usp=sharing)
+- [WEEK-10](https://drive.google.com/drive/folders/1xPQzW7GW1MFmnpVbwvv5GGyqWa4qRDcl?usp=sharing)
+- [WEEK-11](https://drive.google.com/drive/folders/1i1eJ6M4q778Xx8IV878nuuz0Y88c-a5A?usp=sharing)
+- [WEEK-12](https://drive.google.com/drive/folders/1i1eJ6M4q778Xx8IV878nuuz0Y88c-a5A?usp=sharing)
 
 ## Textbooks / Reference Books – 
 
