@@ -1,5 +1,5 @@
 # MECHATRONICS-EVEN2022-SIGNALS & SYSTEMS--20MTT-261
-
+ 📹[![](https://github.com/ChandigarhUniv/MECHATRONICS-EVEN2022-SIGNALS-SYSTEMS-LABORATORY--20MTP-267/blob/main/Gallery/SAS_INTRO2.PNG)](https://drive.google.com/file/d/1qwXqYMw2ztEwyFnDwwwOb92UGf2IG4LR/view?usp=sharing/)       
 > This is a fourth semester course to be offered to students of Department of Mechatronics Engineering, Chandigarh University in EVEN2022 term.
 
 Program-Code-ME204,205 | Signals and Systems ()
